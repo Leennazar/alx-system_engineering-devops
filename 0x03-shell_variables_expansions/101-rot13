@@ -1,2 +1,2 @@
 #!/bin/bash
-cut -c |tr {a..z} {n..m} 
+tr {a..z} {n..m} 
